@@ -13058,3 +13058,26 @@ degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 
 TUNNELS
 degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726252556798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726252559873 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726252562965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726252566034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+degree-pixel.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
